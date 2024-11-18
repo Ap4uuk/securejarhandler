@@ -166,10 +166,6 @@ test {
     })
 }
 
-changelog {
-    from '0.9'
-}
-
 java {
     withSourcesJar()
 }
